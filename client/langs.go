@@ -49,6 +49,7 @@ var Langs = map[string]string{
 	"46": "Java 8 ZIP",
 	"47": "J",
 	"56": "Microsoft Q#",
+	"61": "GNU G++17 9.2.0 (64 bit, msys 2)",
 }
 
 // LangsExt language's ext
